@@ -1,9 +1,7 @@
 # Object-Orient
 
 ## [Wikipedia History](https://en.wikipedia.org/wiki/Object-oriented_programming)
-
-UML notation for a class. This Button class has variables for data, and functions. Through inheritance a subclass can be created as subset of the Button class. Objects are instances of a class.
-Terminology invoking "objects" and "oriented" in the modern sense of object-oriented programming made its first appearance at MIT in the late 1950s and early 1960s.
+Terminology invoking "objects" and "oriented" in the modern sense of object-oriented programming made its first appearance at MIT in the late 1950s and early 1960s. 
 
 
 ## To say in brief
