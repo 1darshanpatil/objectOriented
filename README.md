@@ -1,5 +1,4 @@
 # Object-Orient
-
 ## <a href="https://en.wikipedia.org/wiki/Object-oriented_programming" target = "_blank">Wikipedia Source</a>
 
 Terminology invoking "objects" and "oriented" in the modern sense of object-oriented programming made its first appearance at MIT in the late 1950s and early 1960s. 
@@ -12,3 +11,5 @@ The first object-oriented programming language is generally considered to be <a 
 
 Other notable early contributors to OOP include Alan Kay, who developed the Smalltalk programming language in the 1970s, and Bjarne Stroustrup, who created C++ in the 1980s. Today, OOP is one of the most widely used programming paradigms and has become an essential tool for building software systems in a wide range of industries.
 
+## The fate of repositories
+*Once the final codes will be committed, this repository will become a private repository.*
